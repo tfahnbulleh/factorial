@@ -12,6 +12,3 @@ def computerFactorial(number):
            number=number-1
     print(total)
     return total
-
-
-computerFactorial(-5)
